@@ -1,0 +1,29 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.google.com/imgres?q=wall%20texture%20seamless&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F04%2F33%2F60%2F89%2F360_F_433608947_WLUUw4ZTVJDMod6tSgfVgr8zT4kCdgbz.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dseamless%2Bwall%2Btexture&docid=SKIiRD0s64q9QM&tbnid=IBQxRzbcoKGGLM&vet=12ahUKEwiC4qLXoOSSAxVOL0QIHbihMQMQnPAOegQIHxAB..i&w=720&h=360&hcb=2&ved=2ahUKEwiC4qLXoOSSAxVOL0QIHbihMQMQnPAOegQIHxAB
+
+Texture 2 source url: https://www.front-materials.com/news/seamless-textures-generator/
+
+Texture 3 source url: https://opengameart.org/content/seamless-texture-pack
+
+Texture 4 source url: https://www.vecteezy.com/free-photos/textured-glass
+
+Texture 5 source url: https://www.pickpik.com/bark-wood-tree-seamless-texture-albedo-149538
+
+Texture 6 source url: https://naldzgraphics.net/free-seamless-leaf-textures/
+
+Texture 7 source url: https://www.sketchuptextureclub.com/textures/architecture/roofings/flat-roofs/concrete-flat-roof-tiles-texture-seamless-03584
+
+Texture 8 source url: https://www.textures.com/browse/lights/34760
+
+Texture 9 source url: https://stock.adobe.com/search?k=wood+door+texture
+
+Texture 10 source url: https://stock.adobe.com/search?k=ceiling+texture
+
+3D model source url: https://assetstore.unity.com/packages/p/ountry-house-125731
