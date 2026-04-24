@@ -21,4 +21,5 @@ Added the SChaos ball that you will have to get into the goal
 Shrunk the water so that it isn't popping out of the sides of the arena
 Added a stopwatch to the top left corner of the screen that starts when the game starts and stops when all 5 goals are solved
 Added more Chaos balls for more fun and challenge
+Made the Bouncer thinner
 */
