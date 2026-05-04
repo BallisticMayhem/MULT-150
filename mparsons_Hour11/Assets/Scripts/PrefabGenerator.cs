@@ -6,6 +6,15 @@ public class PrefabGenerator : MonoBehaviour
 {
       public GameObject prefab;
 
+      void Start()
+      {
+          // A loop to spawn 10 street lamps equidistant apart on the ground along one axis.
+          for (int i = 0; i < 10; i++)
+          {
+              Instantiate(prefab, transform.position + transform.right * i * 2, transform.rotation);
+          }
+      }
+
       void Update()
       {
           // Whenever we hit the B key we will generate a prefab at the
