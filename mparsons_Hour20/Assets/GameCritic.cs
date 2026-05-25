@@ -19,7 +19,11 @@ _//   _////_//   _//  _//  _/  _//_///// _//_//        _//   _//  _//  _//_//   
     5. I think the fact that the player slides after you stop pressing the button makes it a bit tedious, and also the player taking a second to pick up speed.
 
     MODIFICATIONS
-    1. I made the model more interesting
+    1. I made the Obstacle a ball that moves around, making dodging much harder. And then added two more other obstacles. One that turns the opposite direction and one that spins backwards.
+    2. I decided to add some rain because yes :)
+    3. Made everything seem a little faster
+    4. Added textures on the Obstacles because I thought it would be funny
+    5. Made the Powerup even faster and act like a rocket coming towards you.
 
 
 */
